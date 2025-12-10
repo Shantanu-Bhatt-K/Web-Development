@@ -7,7 +7,7 @@ This repository contains my web development practice projects, organized by skil
     /
 ├── frontend/\
 │   ├── beginner/\
-    │    ├──CV in HTML\
+    │    ├── CV in HTML\
 │   ├── intermediate/\
 │   └── advanced/\
 └── backend/\
