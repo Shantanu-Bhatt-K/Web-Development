@@ -3,8 +3,8 @@
 This repository contains my web development practice projects, organized by skill level and separated into frontend and backend categories. Each folder represents a stage in my learning journey, starting from beginner-friendly exercises and progressing toward more advanced challenges.
 
 ## Folder Structure
-
-/
+<pre>
+    /
 ├── frontend/\
 │   ├── beginner/\
     │    ├──CV in HTML\
@@ -14,3 +14,5 @@ This repository contains my web development practice projects, organized by skil
     ├── beginner/\
     ├── intermediate/\
     └── advanced/
+</pre>
+
