@@ -5,12 +5,12 @@ This repository contains my web development practice projects, organized by skil
 ## Folder Structure
 
 /
-├── frontend/
-│   ├── beginner/
-    │    ├──CV in HTML
-│   ├── intermediate/
-│   └── advanced/
-└── backend/
-    ├── beginner/
-    ├── intermediate/
-    └── advanced/
+├── frontend/\
+│   ├── beginner/\
+    │    ├──CV in HTML\
+│   ├── intermediate/\
+│   └── advanced/\
+└── backend/\
+    ├── beginner/\
+    ├── intermediate/\
+    └── advanced/\
